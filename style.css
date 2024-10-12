@@ -1,0 +1,29 @@
+.conteiner{
+    background: rgb(196,33,204);
+    background: linear-gradient(90deg, rgba(196,33,204,1) 0%, rgba(253,29,237,1) 50%, rgba(216,85,134,1) 100%);
+    text-align:center;
+    border: 3px solid rgba(0, 0, 0, 0.73);
+    border-radius: 15px;
+    margin-left:350px;
+    margin-top: 100px;
+    padding: 40px;
+    max-height: 500px;
+    max-width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.four{
+    font-size: 115px;
+}
+.r{
+    color:white;
+}
+.h2{
+    margin-top:0,5px ;
+    font-size: 13px;
+    font-weight:100px;
+}
+.text1{
+    font-size:8px
+}
